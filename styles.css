@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Nails By Dija | Premium Nail Studio Lagos</title>
+
+  <meta name="description" content="Nails By Dija is a premium nail studio in Ikeja, Lagos offering acrylic nails, BIAB, builder gel, Gel-X, manicure, pedicure and custom nail art.">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header class="navbar">
+  <a href="#home" class="brand">
+    <img src="logo.jpg" alt="Nails By Dija Logo">
+    <span>NAILS BY DIJA</span>
+  </a>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <a class="nav-book"
+     href="https://book.withsplice.com/nailsbydija/nails-by-dija"
+     target="_blank">
+    Book Now
+  </a>
+</header>
+
+<main>
+
+<section class="hero" id="home">
+
+  <div class="hero-content">
+
+    <p class="eyebrow">PREMIUM NAIL STUDIO • IKEJA, LAGOS</p>
+
+    <h1>
+      Your Nails.<br>
+      Your Style.<br>
+      <span>Perfected.</span>
+    </h1>
+
+    <p class="hero-text">
+      Beautifully crafted nails designed to match your style.
+      From timeless classics to statement sets, every appointment
+      is about giving your nails the attention they deserve.
+    </p>
+
+    <div class="hero-buttons">
+
+      <a class="primary-btn"
+         href="https://book.withsplice.com/nailsbydija/nails-by-dija"
+         target="_blank">
+        Book Appointment
+      </a>
+
+      <a class="secondary-btn" href="#gallery">
+        Explore Our Work
+      </a>
+
+    </div>
+
+    <div class="hero-details">
+      <span>✦ Professional Nail Care</span>
+      <span>✦ Beautiful Finishes</span>
+      <span>✦ Ikeja, Lagos</span>
+    </div>
+
+  </div>
+
+  <div class="hero-image">
+
+    <img src="nail1.jpg"
+         alt="Professional nail set by Nails By Dija">
+
+    <div class="hero-card">
+      <strong>NAILS BY DIJA</strong>
+      <span>Details make the difference.</span>
+    </div>
+
+  </div>
+
+</section>
+
+
+<section class="intro">
+
+  <p>NAIL ART • BEAUTY • DETAIL</p>
+
+  <h2>
+    More than a manicure.<br>
+    <span>It's your finishing touch.</span>
+  </h2>
+
+  <p class="intro-text">
+    Whether you love something simple, classy or bold,
+    Nails By Dija brings precision and creativity to every set.
+  </p>
+
+</section>
+
+
+<section class="services" id="services">
+
+  <div class="section-heading">
+
+    <div>
+      <p class="eyebrow">WHAT WE DO</p>
+      <h2>Our Services</h2>
+    </div>
+
+    <p>
+      Nail services designed for beautiful,
+      polished and confident hands.
+    </p>
+
+  </div>
+
+
+  <div class="service-grid">
+
+    <article class="service-card">
+      <span>01</span>
+      <h3>Acrylic Nails</h3>
+      <p>
+        Beautiful acrylic sets created with shape,
+        structure and your preferred style in mind.
+      </p>
+    </article>
+
+
+    <article class="service-card">
+      <span>02</span>
+      <h3>BIAB & Builder Gel</h3>
+      <p>
+        A polished option for clients who want
+        strength, structure and a clean finish.
+      </p>
+    </article>
+
+
+    <article class="service-card">
+      <span>03</span>
+      <h3>Gel-X</h3>
+      <p>
+        Stylish nail extensions with a lightweight
+        feel and beautiful professional finish.
+      </p>
+    </article>
+
+
+    <article class="service-card">
+      <span>04</span>
+      <h3>Manicure</h3>
+      <p>
+        Professional nail and hand care to keep
+        your nails looking neat, fresh and polished.
+      </p>
+    </article>
+
+
+    <article class="service-card">
+      <span>05</span>
+      <h3>Pedicure</h3>
+      <p>
+        Care and finishing for clean, refreshed
+        and beautifully presented feet.
+      </p>
+    </article>
+
+
+    <article class="service-card highlight-card">
+      <span>06</span>
+      <h3>Custom Nail Art</h3>
+      <p>
+        Creative nail designs for clients who want
+        something personal and eye-catching.
+      </p>
+    </article>
+
+  </div>
+
+</section>
+
+
+<section class="gallery" id="gallery">
+
+  <div class="gallery-heading">
+
+    <p class="eyebrow">THE NAIL EDIT</p>
+
+    <h2>
+      Designed with detail.<br>
+      <span>Worn with confidence.</span>
+    </h2>
+
+  </div>
+
+
+  <div class="gallery-grid">
+
+    <figure class="gallery-large">
+      <img src="nail2.jpg"
+           alt="Nail design by Nails By Dija"
+           loading="lazy">
+    </figure>
+
+    <figure>
+      <img src="nail3.jpg"
+           alt="Professional nail art by Nails By Dija"
+           loading="lazy">
+    </figure>
+
+    <figure>
+      <img src="nail4.jpg"
+           alt="Luxury nail set by Nails By Dija"
+           loading="lazy">
+    </figure>
+
+    <figure>
+      <img src="nail5.jpg"
+           alt="Beautiful nail design by Nails By Dija"
+           loading="lazy">
+    </figure>
+
+    <figure>
+      <img src="nail6.jpg"
+           alt="Nail inspiration by Nails By Dija"
+           loading="lazy">
+    </figure>
+
+    <figure class="gallery-wide">
+      <img src="nail7.jpg"
+           alt="Creative nail art by Nails By Dija"
+           loading="lazy">
+    </figure>
+
+  </div>
+
+</section>
+
+
+<section class="about" id="about">
+
+  <div class="about-logo">
+    <img src="logo.jpg" alt="Nails By Dija">
+  </div>
+
+  <div class="about-content">
+
+    <p class="eyebrow">ABOUT THE STUDIO</p>
+
+    <h2>
+      Nails that feel<br>
+      <span>uniquely yours.</span>
+    </h2>
+
+    <p>
+      Nails By Dija is a premium nail studio in Ikeja, Lagos,
+      focused on beautiful nail services and creative designs.
+      Every set is an opportunity to create something
+      that complements your personal style.
+    </p>
+
+    <a href="https://book.withsplice.com/nailsbydija/nails-by-dija"
+       target="_blank"
+       class="text-link">
+      BOOK YOUR APPOINTMENT →
+    </a>
+
+  </div>
+
+</section>
+
+
+<section class="booking">
+
+  <p class="eyebrow">READY FOR YOUR NEXT SET?</p>
+
+  <h2>
+    Your next favourite<br>
+    nails start here.
+  </h2>
+
+  <p>
+    Choose your service and reserve your appointment online.
+  </p>
+
+  <a href="https://book.withsplice.com/nailsbydija/nails-by-dija"
+     target="_blank"
+     class="booking-btn">
+    Book An Appointment
+  </a>
+
+</section>
+
+
+<section class="contact" id="contact">
+
+  <div class="contact-heading">
+
+    <p class="eyebrow">VISIT NAILS BY DIJA</p>
+
+    <h2>Come get your nails done.</h2>
+
+  </div>
+
+
+  <div class="contact-grid">
+
+
+    <div class="contact-item">
+
+      <span>LOCATION</span>
+
+      <h3>2A Johnson Street</h3>
+
+      <p>Allen, Ikeja, Lagos</p>
+
+      <a href="https://www.google.com/maps/search/?api=1&query=2A+Johnson+Street+Allen+Ikeja+Lagos"
+         target="_blank">
+        Get Directions →
+      </a>
+
+    </div>
+
+
+    <div class="contact-item">
+
+      <span>CALL</span>
+
+      <h3>0704 594 9581</h3>
+
+      <p>Contact the studio directly.</p>
+
+      <a href="tel:+2347045949581">
+        Call Studio →
+      </a>
+
+    </div>
+
+
+    <div class="contact-item">
+
+      <span>WHATSAPP</span>
+
+      <h3>Chat With Us</h3>
+
+      <p>
+        Send Nails By Dija a message on WhatsApp.
+      </p>
+
+      <a href="https://wa.me/2348126780100?text=Hello%20Nails%20By%20Dija%2C%20I%20would%20like%20to%20book%20a%20nail%20appointment."
+         target="_blank"
+         rel="noopener noreferrer">
+        Chat on WhatsApp →
+      </a>
+
+    </div>
+
+
+    <div class="contact-item">
+
+      <span>BOOK ONLINE</span>
+
+      <h3>Reserve Your Spot</h3>
+
+      <p>
+        Select your preferred nail service online.
+      </p>
+
+      <a href="https://book.withsplice.com/nailsbydija/nails-by-dija"
+         target="_blank">
+        Book Now →
+      </a>
+
+    </div>
+
+
+  </div>
+
+</section>
+
+
+<section class="social">
+
+  <p>FOLLOW THE NAIL JOURNEY</p>
+
+  <h2>@nailsbydija</h2>
+
+  <div class="social-buttons">
+
+    <a href="https://www.instagram.com/nailsbydija_backup/"
+       target="_blank"
+       rel="noopener noreferrer">
+      Instagram
+    </a>
+
+    <a href="https://www.tiktok.com/@nailsbydija12"
+       target="_blank"
+       rel="noopener noreferrer">
+      TikTok
+    </a>
+
+  </div>
+
+</section>
+
+</main>
+
+
+<footer>
+
+  <div class="footer-brand">
+
+    <img src="logo.jpg" alt="Nails By Dija Logo">
+
+    <h2>NAILS BY DIJA</h2>
+
+    <p>Premium nail care in Ikeja, Lagos.</p>
+
+  </div>
+
+
+  <div class="footer-links">
+
+    <a href="#services">Services</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+
+  </div>
+
+
+  <div class="footer-bottom">
+
+    <p>© 2026 Nails By Dija. All rights reserved.</p>
+
+    <p>Ikeja • Lagos • Nigeria</p>
+
+  </div>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
